@@ -1,0 +1,159 @@
+.menu-list ul li:hover:before {
+    width: 100%;
+}
+
+#about .section-title button:hover:before {
+    height: 80px;
+}
+
+#project .section-title button:hover:before {
+    height: 90px;
+}
+
+.section-title2 button:hover:before {
+    height: 90px;
+}
+
+.about-team-item:hover .about-slide {
+    top: 0;
+}
+
+.about-team-item:hover .about-slide ul {
+    display: flex;
+}
+
+.about-team-item:hover .about-slide h4 {
+    display: block;
+}
+
+.about-team-item:hover .about-slide h5 {
+    display: block;
+}
+
+#article .post:hover:after {
+    height: 70%;
+}
+
+#article .post:hover:before {
+    width: 60%;
+}
+
+#nav ul li:hover {
+    letter-spacing: 1px;
+}
+
+#header-top .header-top-social ul li a:hover {
+    font-size: 20px;
+}
+
+#base-story .base-story .base-story-item div:hover {
+    margin-top: -20px;
+    background-color: #fa8100;
+    letter-spacing: 1px;
+
+}
+
+
+
+#tab-one:hover {
+    background-color: #fa8100;
+    letter-spacing: 1px;
+
+}
+
+#tab-two:hover {
+    background-color: #fa8100;
+    letter-spacing: 1px;
+
+}
+
+#tab-three:hover {
+    background-color: #fa8100;
+    letter-spacing: 1px;
+
+}
+
+#tab-four:hover {
+    background-color: #fa8100;
+    letter-spacing: 1px;
+
+}
+
+#tab-five:hover {
+    background-color: #fa8100;
+    letter-spacing: 1px;
+}
+
+#services .tab-content .tab .content .content-img img:hover {
+    transform: scale(1.03);
+}
+
+.tab-content-link a:hover {
+    background-color: #fa8100;
+    letter-spacing: 1px;
+
+}
+
+#about .section-title button:hover {
+    letter-spacing: 1px;
+}
+
+.txt-content a:hover {
+    letter-spacing: 1px;
+    background-color: #fa8100;
+}
+
+#project .section-title button:hover {
+    letter-spacing: 1px;
+}
+
+#project .box .box-item:hover {
+    box-shadow: -8px 8px 20px rgba(0, 0, 0, .7);
+
+}
+
+.section-title2 button:hover {
+    letter-spacing: 1px;
+}
+
+#lightSlider1 img:hover {
+    transform: scale(1.07);
+}
+
+.item:hover {
+    background-color: #fa8100;
+    color: rgb(75, 75, 75);
+}
+
+.item p:hover {
+    color: rgb(75, 75, 75);
+}
+
+summary:hover {
+    letter-spacing: 0.5px;
+}
+
+footer .footer-about .footer-about-contact form input:hover {
+    background-color: rgb(245, 245, 245);
+}
+
+.social ul li svg:hover {
+    font-size: 30px;
+}
+
+footer img:hover {
+    transform: scale(1.1);
+}
+
+.footer-content .portfolio-content ul li:hover {
+    background-color: rgba(111, 110, 110, 0.832);
+}
+
+.footer-content .quick-access ul li:hover {
+    background-color: rgba(111, 110, 110, 0.832);
+
+}
+
+.footer-content .hot-content ul li:hover {
+    background-color: rgba(111, 110, 110, 0.832);
+}

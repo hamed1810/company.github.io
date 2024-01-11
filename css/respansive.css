@@ -1,0 +1,537 @@
+@media screen and (max-width:1400px) {
+    #base-story .base-story {
+        width: 60%;
+    }
+
+    #base-story .base-video {
+        width: 40%;
+    }
+
+    .slider-desc h1 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .slider-desc h1 {
+        font-size: 35px;
+    }
+
+    #about .about-team .about-team-item img {
+        height: 350px;
+    }
+
+    #base-story .row {
+        align-items: center;
+    }
+
+}
+
+@media screen and (max-width:1100px) {
+    #customer {
+        height: 40vh;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .slider-desc h1 {
+        font-size: 30px;
+    }
+
+    .menu-list {
+        width: 70%;
+    }
+
+    #base-story .base-story .base-story-item {
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    }
+
+    #base-story .base-story .base-story-item div {
+        width: 200px;
+    }
+
+
+    #article .post img {
+        height: 250px;
+    }
+
+    .post .post-desc {
+        padding: 10px;
+    }
+
+    footer .footer-content {
+        flex-wrap: wrap;
+    }
+
+    footer .footer-content div {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width:900px) {
+    #base-story .row {
+        flex-direction: column;
+    }
+
+    #base-story .base-video {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+    #base-story .base-story {
+        width: 100%;
+    }
+
+    .story-title {
+        width: 100%;
+        /* height: 15vh; */
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .story-title p {
+        font-size: 18px;
+    }
+
+    #about .row {
+        flex-direction: column;
+    }
+
+    #about .section-title {
+        width: 100%;
+    }
+
+    #about .about-team {
+        width: 100%;
+    }
+
+    .date * {
+        font-size: 5px;
+    }
+
+    .date svg {
+        font-size: 17px;
+    }
+
+    .hh {
+        display: none;
+    }
+
+    footer .footer-about {
+        flex-direction: column;
+    }
+
+    footer .footer-about .footer-about-title {
+        width: 100%;
+    }
+
+    footer .footer-about .footer-about-contact {
+        width: 80%;
+        margin: auto;
+        padding: 10px;
+    }
+
+    footer .footer-about .footer-about-contact .social ul {
+        width: 60%;
+    }
+
+    #base-story .base-story {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .menu-list {
+        width: 80%;
+    }
+
+    #base-story .base-story .base-story-item {
+        gap: 20px 0px;
+    }
+
+    #base-story .base-story .base-story-item {
+        justify-content: space-evenly;
+    }
+
+    #about .about-team .about-team-item img {
+        height: 260px;
+    }
+
+    #article {
+        height: auto;
+        padding: 40px 0;
+    }
+
+    #article .row {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    #article .post {
+        width: 90%;
+    }
+
+    .hh {
+        display: inline;
+    }
+
+    footer .footer-content {
+        justify-content: center;
+    }
+
+    footer .footer-content div {
+        width: 90%;
+    }
+
+    .mm {
+        margin: 50px 0 10px 0;
+        justify-content: center;
+    }
+
+    .mm h3 {
+        margin-left: 15px;
+    }
+
+    #customer h2 {
+        margin-bottom: 30px;
+    }
+
+    #question {
+        flex-direction: column;
+        margin-top: 90px;
+    }
+
+    .women {
+        display: none;
+    }
+
+    #question .rightt h2 {
+        margin: 30px 0;
+    }
+
+    #question .leftt {
+        width: 100%;
+    }
+
+    summary {
+        margin: 20px;
+    }
+
+    #info * {
+        font-size: 12px;
+    }
+
+    #project .section-title button {
+        width: 230px;
+    }
+
+    #project {
+        padding: 50px 0;
+    }
+}
+
+@media screen and (max-width:600px) {
+    #header-top .message p {
+        font-size: 10px;
+    }
+
+    #services {
+        height: 100vh !important;
+    }
+
+    #customer {
+        height: 49vh;
+    }
+
+    #date {
+        font: 10px sans-serif;
+    }
+
+    #header-top .message {
+        display: none;
+    }
+
+    .days {
+        display: none;
+    }
+
+    #info * {
+        font-size: 17px;
+    }
+
+    #header-top .row1 * {
+        font-size: 17px;
+        justify-content: space-between;
+    }
+
+    .slider-desc h1 {
+        font-size: 25px;
+    }
+
+    .slider-desc span {
+        font-size: 21px;
+    }
+
+    .menu-list {
+        width: 85%;
+    }
+
+    .txt-content p {
+        font-size: 23px;
+    }
+
+    .emza {
+        font-size: 13px;
+    }
+
+    .item {
+        width: 230px;
+    }
+
+    #services .tab-button ul {
+        /* flex-wrap: wrap; */
+        flex-direction: column;
+
+        height: auto;
+    }
+
+    #services .tab-button ul li {
+        width: 100%;
+        height: 40px;
+        border: none;
+        border-bottom: 4px solid white;
+    }
+
+    #services {
+        height: 85vh;
+    }
+
+    #services .tab-content .tab .content {
+        align-items: center;
+    }
+
+    .post .post-desc a,
+    p {
+        margin-bottom: 10px;
+    }
+
+    .footer-content .hot-content ul li a img {
+        width: 110px;
+        height: 80px;
+    }
+
+    .footer-content .portfolio-content ul li a img {
+        width: 110px;
+        height: 80px;
+    }
+
+    .footer-content .hot-content ul li {
+        padding: 30px 0;
+    }
+
+    .footer-content .portfolio-content ul li {
+        padding: 30px 0;
+    }
+
+    .rightt {
+        width: 100%;
+    }
+
+
+
+
+    .menu-list {
+        display: none;
+    }
+
+    .hamber {
+        display: inline;
+    }
+
+    #logoo {
+        position: absolute;
+        width: 55px;
+        height: 35px;
+        left: 5px;
+        top: 5px;
+    }
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width:500px) {
+    .slider-desc h1 {
+        font-size: 22px;
+    }
+
+    #customer {
+        height: 65vh !important;
+    }
+
+    .slider-desc span {
+        font-size: 19px;
+    }
+
+    .post .post-desc a,
+    p {
+        margin-bottom: 0;
+    }
+
+    .menu-list ul li a {
+        font-size: 14px;
+    }
+
+    #base-story .base-story .story-title h3 {
+        font-size: 15px;
+    }
+
+    .story-title p {
+        font-size: 15px;
+    }
+
+    #about .about-team .about-team-item img {
+        height: 200px;
+    }
+
+    .txt-content p {
+        font-size: 19px;
+    }
+
+    #project .section-title h1 {
+        font-size: 17px;
+    }
+
+    #article .post {
+        width: 85%;
+    }
+
+    #customer {
+        height: 40vh;
+    }
+
+    .item {
+        width: 200px;
+    }
+
+    #customer .container {
+        align-items: center;
+        height: 60%;
+    }
+
+    summary::before {
+        width: 80%;
+    }
+
+    #info * {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    #base-story .base-story .base-story-item div {
+        width: 250px;
+        height: 150px;
+    }
+
+    #base-story .base-story .base-story-item div h4 {
+        font-size: 20px;
+    }
+
+    #base-story .base-story .base-story-item div svg {
+        font-size: 40px;
+    }
+
+    .story-title {
+        padding: 0 10px;
+    }
+
+    #services .tab-content .tab .content .content-img {
+        display: none;
+    }
+
+    #services .tab-content .tab .content .content-title {
+        width: 100%;
+    }
+
+    .txt-content p {
+        font-size: 16px;
+    }
+
+    .section-title2 h1 {
+        font-size: 22px;
+    }
+
+    #customer {
+        height: 80vh;
+    }
+
+    .item {
+        width: 250px;
+    }
+
+    #customer {
+        height: 100vh !important;
+    }
+}
+
+@media screen and (max-width:400px) {
+    #info * {
+        font-size: 12px;
+    }
+
+    #header-top .row1 * {
+        font-size: 12px;
+    }
+
+    .slider-desc h1 {
+        font-size: 18px;
+    }
+
+    .slider-desc span {
+        font-size: 16px;
+    }
+
+    .resume {
+        padding: 5px;
+        font-size: 12px;
+    }
+
+    .txt-content a {
+        width: 150px;
+    }
+
+    #project .section-title button {
+        width: 150px;
+    }
+
+    .section-title2 button {
+        width: 150px;
+    }
+
+    footer .footer-about .footer-about-contact {
+        width: 90%;
+    }
+
+    footer .footer-about .footer-about-title p {
+        font-size: 13px;
+    }
+
+    .emza {
+        font-size: 9px;
+        padding: 0 20px;
+    }
+
+    #question {
+        padding: 20px;
+    }
+}
